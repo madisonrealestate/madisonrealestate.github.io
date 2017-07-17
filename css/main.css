@@ -109,6 +109,8 @@ body, html {
     -moz-osx-font-smoothing: grayscale;
     height: 100%;
     width: 100%;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -609,7 +611,6 @@ Properties-inner
     }
     .service-img-2 img {
         text-align: left;
-        margin-left: -10%;
     }
 }
 /*
@@ -966,16 +967,11 @@ Contact page
 }
 #map {
     width: 100%;
-    height: 350px;
-    display: block;
+    height: 400px;
     margin:0;
     padding: 0;
 }
-#map img {
-    height: 350px;
-}
 .half-width {
-    display: block;
     width: 100%;
     height: 500px;
     padding-top: 1em;
@@ -1006,14 +1002,21 @@ Contact page
 
 @media (min-width: 768px) {
     .location, .direct-contact, .information {
-        margin-right: 2em;
-        margin-bottom: 6em;
+        margin-right: 1em;
+        margin-bottom: 2em;
         float: left;
+        width: 200px;
+    }
+    .half-width {
+        height: 350px;
     }
     .half-width h2 {
         margin-top: 2em;
         margin-bottom:0;
         padding-bottom: 0;
+    }
+    #map {
+        height: 300px;
     }
 }
 
@@ -1024,21 +1027,27 @@ Contact page
     .location, .direct-contact, .information {
         margin-right: 0;
         float: none;
-        margin-bottom: 2em;
+        margin-bottom: 1.5em;
     }
+
     .half-width {
         display: inline-block;
         width: 50%;
+        height: 520px;
         margin:0;
         padding: 0;
         float: left;
     }
     #map {
         width: 50%;
-        height: 500px;
+        height: 520px;
         display: inline-block;
         float: right;
         margin:0;
+        padding: 0;
+    }
+    #map img {
+        margin: 0;
         padding: 0;
     }
 }
@@ -1059,7 +1068,7 @@ footer {
     height: 312px;
     background: #3498db;
     color: white;
-    position: static;
+    position: fixed;
     -webkit-backface-visibility: hidden;
     z-index: 1;
     bottom:0;
