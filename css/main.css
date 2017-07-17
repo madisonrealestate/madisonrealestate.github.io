@@ -1060,6 +1060,7 @@ footer {
     background: #3498db;
     color: white;
     position: fixed;
+    position: static;
     -webkit-backface-visibility: hidden;
     z-index: 1;
     bottom:0;
