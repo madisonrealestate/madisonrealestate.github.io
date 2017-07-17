@@ -109,7 +109,7 @@ body, html {
     -moz-osx-font-smoothing: grayscale;
     height: 100%;
     width: 100%;
-    overflow: hidden;
+    overflow-x: hidden;
     box-sizing: border-box;
 }
 
@@ -750,7 +750,7 @@ nav ul li:last-of-type {
 }
 @media (min-width: 576px) {
     .logo-svg {
-        margin-left: 15px;
+        /*margin-left: -15px;*/
     }
 }
 

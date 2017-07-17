@@ -4,7 +4,6 @@
     <list default="true" id="46067272-d18a-4ff0-a10e-7a08bb8fedd2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +21,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="1059" column="40" lean-forward="false" selection-start-line="1059" selection-start-column="40" selection-end-line="1059" selection-end-column="40" />
+            <state relative-caret-position="302">
+              <caret line="753" column="5" lean-forward="true" selection-start-line="753" selection-start-column="5" selection-end-line="753" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -80,7 +79,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>properti</find>
       <find>.half</find>
       <find>media</find>
       <find>map</find>
@@ -110,6 +108,7 @@
       <find>button</find>
       <find>body</find>
       <find>footer</find>
+      <find>.logo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -340,12 +339,12 @@
       <workItem from="1500143274721" duration="7226000" />
       <workItem from="1500237171784" duration="3948000" />
       <workItem from="1500254821979" duration="2349000" />
-      <workItem from="1500314862670" duration="3415000" />
+      <workItem from="1500314862670" duration="3568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97695000" />
+    <option name="totallyTimeSpent" value="97848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="146" y="23" width="1149" height="739" extended-state="0" />
@@ -696,8 +695,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="1059" column="40" lean-forward="false" selection-start-line="1059" selection-start-column="40" selection-end-line="1059" selection-end-column="40" />
+        <state relative-caret-position="302">
+          <caret line="753" column="5" lean-forward="true" selection-start-line="753" selection-start-column="5" selection-end-line="753" selection-end-column="5" />
           <folding />
         </state>
       </provider>
