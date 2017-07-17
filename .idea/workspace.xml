@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46067272-d18a-4ff0-a10e-7a08bb8fedd2" name="Default" comment="" />
+    <list default="true" id="46067272-d18a-4ff0-a10e-7a08bb8fedd2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/home-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/home-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/footer-reveal.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/masonry.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/pace.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-3.jpg" afterPath="$PROJECT_DIR$/img/about-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-header.jpg" afterPath="$PROJECT_DIR$/img/about-header.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/biomat-2.jpg" afterPath="$PROJECT_DIR$/img/biomat-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/biomat-3.jpg" afterPath="$PROJECT_DIR$/img/biomat-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/home-1.jpg" afterPath="$PROJECT_DIR$/img/home-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/home-3.jpg" afterPath="$PROJECT_DIR$/img/home-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/home-4.jpg" afterPath="$PROJECT_DIR$/img/home-4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/lake-street-1.jpg" afterPath="$PROJECT_DIR$/img/lake-street-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/peckham-1.jpg" afterPath="$PROJECT_DIR$/img/peckham-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/peckham-2.jpg" afterPath="$PROJECT_DIR$/img/peckham-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/peckham-3.jpg" afterPath="$PROJECT_DIR$/img/peckham-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/peckham-4.jpg" afterPath="$PROJECT_DIR$/img/peckham-4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/peckham-5.jpg" afterPath="$PROJECT_DIR$/img/peckham-5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/peckham-6.jpg" afterPath="$PROJECT_DIR$/img/peckham-6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pleasant-valley-1.jpg" afterPath="$PROJECT_DIR$/img/pleasant-valley-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pleasant-valley-2.jpg" afterPath="$PROJECT_DIR$/img/pleasant-valley-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pleasant-valley-3.jpg" afterPath="$PROJECT_DIR$/img/pleasant-valley-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pleasant-valley-4.jpg" afterPath="$PROJECT_DIR$/img/pleasant-valley-4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pleasant-valley-5.jpg" afterPath="$PROJECT_DIR$/img/pleasant-valley-5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/pleasant-valley-6.jpg" afterPath="$PROJECT_DIR$/img/pleasant-valley-6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/properties-header.jpg" afterPath="$PROJECT_DIR$/img/properties-header.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/reno-regency-1.jpg" afterPath="$PROJECT_DIR$/img/reno-regency-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/reno-regency-2.jpg" afterPath="$PROJECT_DIR$/img/reno-regency-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/reno-regency-3.jpg" afterPath="$PROJECT_DIR$/img/reno-regency-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/sunset-fuller-1.jpg" afterPath="$PROJECT_DIR$/img/sunset-fuller-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/sunset-fuller-2.jpg" afterPath="$PROJECT_DIR$/img/sunset-fuller-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/sunset-fuller-3.jpg" afterPath="$PROJECT_DIR$/img/sunset-fuller-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/sunset-fuller-4.jpg" afterPath="$PROJECT_DIR$/img/sunset-fuller-4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,21 +53,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="702" column="1" lean-forward="true" selection-start-line="702" selection-start-column="1" selection-end-line="702" selection-end-column="1" />
+            <state relative-caret-position="-2582">
+              <caret line="708" column="0" lean-forward="false" selection-start-line="708" selection-start-column="0" selection-end-line="708" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="27" column="37" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="244">
+              <caret line="44" column="39" lean-forward="false" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -46,7 +84,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>arrow</find>
       <find>back</find>
       <find>footer</find>
       <find>page-hea</find>
@@ -76,15 +113,19 @@
       <find>about</find>
       <find>.about-list</find>
       <find>about-l</find>
+      <find>sub-menu</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/plugins.js" />
         <option value="$PROJECT_DIR$/css/pace-theme-fill-left.css" />
-        <option value="$USER_HOME$/Desktop/unit_4_Naomi_Daniel/unit_4_Naomi_Daniel.js" />
-        <option value="$USER_HOME$/Desktop/unit_5_Naomi_Daniel.js" />
+        <option value="$PROJECT_DIR$/../unit_4_Naomi_Daniel/unit_4_Naomi_Daniel.js" />
+        <option value="$PROJECT_DIR$/../unit_5_Naomi_Daniel.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/properties2.html" />
         <option value="$PROJECT_DIR$/595.html" />
@@ -92,7 +133,6 @@
         <option value="$PROJECT_DIR$/css/slick-theme.css" />
         <option value="$PROJECT_DIR$/img/logo.svg" />
         <option value="$PROJECT_DIR$/css/slick-lightbox.css" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/lake-street.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/east-6th.html" />
@@ -104,6 +144,7 @@
         <option value="$PROJECT_DIR$/reno-regency.html" />
         <option value="$PROJECT_DIR$/sunset-fuller.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -114,11 +155,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
+    <option name="x" value="67" />
     <option name="y" value="23" />
     <option name="width" value="1149" />
     <option name="height" value="739" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -134,7 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -150,6 +191,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,7 +220,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.unit_5_Naomi_Daniel.js">
-    <configuration default="false" name="unit_5_Naomi_Daniel.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="unit_5_Naomi_Daniel.js" working-dir="$USER_HOME$/Desktop">
+    <configuration default="false" name="unit_5_Naomi_Daniel.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="unit_5_Naomi_Daniel.js" working-dir="$PROJECT_DIR$/..">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -288,21 +330,22 @@
       <workItem from="1500143274721" duration="7226000" />
       <workItem from="1500237171784" duration="3948000" />
       <workItem from="1500254821979" duration="2349000" />
+      <workItem from="1500314862670" duration="796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94280000" />
+    <option name="totallyTimeSpent" value="95076000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="23" width="1149" height="739" extended-state="0" />
+    <frame x="67" y="23" width="1149" height="739" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -400,8 +443,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/unit_4_Naomi_Daniel/unit_4_Naomi_Daniel.js" />
-    <entry file="file://$USER_HOME$/Desktop/unit_5_Naomi_Daniel.js" />
+    <entry file="file://$PROJECT_DIR$/../unit_4_Naomi_Daniel/unit_4_Naomi_Daniel.js" />
+    <entry file="file://$PROJECT_DIR$/../unit_5_Naomi_Daniel.js" />
     <entry file="file://$PROJECT_DIR$/img/home-4.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -565,7 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="42" column="39" lean-forward="false" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -573,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="39" column="47" lean-forward="false" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -581,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -589,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="47" column="39" lean-forward="false" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -597,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -605,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
           <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -613,7 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="39" column="43" lean-forward="false" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -621,7 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
           <caret line="43" column="39" lean-forward="false" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -629,7 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
           <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -637,22 +671,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="44" column="39" lean-forward="false" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="702" column="1" lean-forward="true" selection-start-line="702" selection-start-column="1" selection-end-line="702" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="27" column="37" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="-2582">
+          <caret line="708" column="0" lean-forward="false" selection-start-line="708" selection-start-column="0" selection-end-line="708" selection-end-column="0" />
           <folding />
         </state>
       </provider>
