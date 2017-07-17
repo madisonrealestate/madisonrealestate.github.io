@@ -17,5 +17,7 @@ $('.nav-overlay').click(function(){
     // open = false;
 });
 
-
+if (!("ontouchstart" in document.documentElement)) {
+    document.documentElement.className += " no-touch";
+}
 

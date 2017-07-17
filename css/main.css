@@ -109,6 +109,7 @@ body, html {
     -moz-osx-font-smoothing: grayscale;
     height: 100%;
     width: 100%;
+    overflow: hidden;
     box-sizing: border-box;
 }
 
@@ -745,11 +746,11 @@ nav ul li:last-of-type {
 
 #home .logo-svg {
     margin-left: 15px;
-    height: 20px;
+    width: 120px;
 }
 @media (min-width: 576px) {
     .logo-svg {
-        margin-left: -15px;
+        margin-left: 15px;
     }
 }
 
@@ -1056,6 +1057,7 @@ footer {
     background: #3498db;
     color: white;
     position: fixed;
+    -webkit-backface-visibility: hidden;
     z-index: 1;
     bottom:0;
     width: 100%;
