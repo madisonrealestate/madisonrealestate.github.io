@@ -1059,13 +1059,20 @@ footer {
     height: 312px;
     background: #3498db;
     color: white;
-    position: fixed;
     position: static;
     -webkit-backface-visibility: hidden;
     z-index: 1;
     bottom:0;
     width: 100%;
     padding: 48px 0 24px 0;
+}
+@media handeld {
+    main {
+        margin-bottom: 0;
+    }
+    footer {
+        position: static;
+    }
 }
 footer p {
     color: white;
