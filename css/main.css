@@ -1020,7 +1020,10 @@ Contact page
     }
     #map {
         height: 300px;
+        margin-bottom: 0;
+        padding-bottom;
     }
+
 }
 
 @media (min-width: 992px) {
@@ -1121,9 +1124,7 @@ footer .row {
         height: 300px;
         bottom: 0;
     }
-    main {
-        margin-bottom: 300px;
-    }
+    
     .display-none {
         display: inline-block;
     }
