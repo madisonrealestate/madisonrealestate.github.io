@@ -1080,6 +1080,7 @@ footer {
 }
 @media (max-width: 768px){
     main {
+        position: static;
         margin-bottom: 0;
     }
     footer {
