@@ -699,7 +699,7 @@ nav ul li:last-of-type {
 .site-title {
     position: absolute;
     cursor: pointer;
-    top: 24px;
+    top: 25px;
 }
 .logo-svg {
     height: 16px;
@@ -748,11 +748,6 @@ nav ul li:last-of-type {
     margin-left: -15px;
     width: 120px;
 }
-@media (min-width: 576px) {
-    .logo-svg {
-        /*margin-left: -15px;*/
-    }
-}
 
 .hamburger {
     position: absolute;
@@ -793,10 +788,10 @@ nav ul li:last-of-type {
 }
 @media (min-width: 768px) {
     .site-title{
-        top: 24px;
+        top: 26px;
     }
     .hamburger {
-        top: 29px;
+        top: 30px;
     }
     .logo-svg {
         height: 20px;
@@ -1121,12 +1116,8 @@ footer .row {
 }
 @media (min-width: 500px) {
     footer {
-        height: 300px;
+        height: 312px;
         bottom: 0;
-    }
-    
-    .display-none {
-        display: inline-block;
     }
     .back-to-top {
         display: inline-block;
@@ -1136,6 +1127,11 @@ footer .row {
     .right-reserved {
         display: inline-block;
         float: left;
+    }
+}
+@media (min-width: 768px) {
+    .display-none {
+        display: inline-block;
     }
 }
 /*
