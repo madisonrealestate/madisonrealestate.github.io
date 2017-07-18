@@ -754,21 +754,6 @@ nav ul li:last-of-type {
     }
 }
 
-@media (min-width: 768px) {
-    .site-title{
-        top: 22px;
-    }
-    .logo-svg {
-        height: 20px;
-    }
-    nav {
-        height: 80px;
-    }
-    nav ul li {
-        line-height: 80px;
-    }
-}
-
 .hamburger {
     position: absolute;
     z-index: 9999999;
@@ -805,6 +790,23 @@ nav ul li:last-of-type {
     display: block;
     width: 30px;
     height: 30px;
+}
+@media (min-width: 768px) {
+    .site-title{
+        top: 24px;
+    }
+    .hamburger {
+        top: 29px;
+    }
+    .logo-svg {
+        height: 20px;
+    }
+    nav {
+        height: 80px;
+    }
+    nav ul li {
+        line-height: 80px;
+    }
 }
 @media (min-width:769px) {
     .btn-menu {
@@ -942,6 +944,7 @@ nav ul li:last-of-type {
         cursor: pointer;
     }
 }
+
 /*
 On-load effect
 */
@@ -1075,7 +1078,7 @@ footer {
     width: 100%;
     padding: 48px 0 24px 0;
 }
-@media handeld {
+@media (max-width: 768px){
     main {
         margin-bottom: 0;
     }
