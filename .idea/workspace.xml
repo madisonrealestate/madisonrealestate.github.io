@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46067272-d18a-4ff0-a10e-7a08bb8fedd2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +20,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="2080" column="0" lean-forward="false" selection-start-line="2080" selection-start-column="0" selection-end-line="2080" selection-end-column="0" />
+            <state relative-caret-position="152">
+              <caret line="693" column="1" lean-forward="true" selection-start-line="693" selection-start-column="1" selection-end-line="693" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -99,7 +98,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>direct</find>
       <find>description</find>
       <find>200</find>
       <find>descript</find>
@@ -129,6 +127,7 @@
       <find>nav</find>
       <find>footer</find>
       <find>map</find>
+      <find>.site-</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -359,12 +358,12 @@
       <workItem from="1500143274721" duration="7226000" />
       <workItem from="1500237171784" duration="3948000" />
       <workItem from="1500254821979" duration="2349000" />
-      <workItem from="1500314862670" duration="12071000" />
+      <workItem from="1500314862670" duration="12239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106351000" />
+    <option name="totallyTimeSpent" value="106519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="146" y="23" width="1149" height="739" extended-state="0" />
@@ -718,8 +717,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="2080" column="0" lean-forward="false" selection-start-line="2080" selection-start-column="0" selection-end-line="2080" selection-end-column="0" />
+        <state relative-caret-position="152">
+          <caret line="693" column="1" lean-forward="true" selection-start-line="693" selection-start-column="1" selection-end-line="693" selection-end-column="1" />
           <folding />
         </state>
       </provider>
