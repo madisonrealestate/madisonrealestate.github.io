@@ -697,13 +697,14 @@ nav ul li:last-of-type {
 }
 
 .site-title {
+    width: 300px;
     position: absolute;
     cursor: pointer;
     top: 26.5px;
 }
 .logo-svg {
     /*max-width: 100%;*/
-    height: 12px;
+    height: 14px;
 }
 .menu li:hover .sub-menu {
     z-index:1;
