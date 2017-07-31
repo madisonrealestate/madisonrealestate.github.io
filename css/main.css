@@ -697,13 +697,12 @@ nav ul li:last-of-type {
 }
 
 .site-title {
-    width: 50%;
     position: absolute;
     cursor: pointer;
     top: 26.5px;
 }
 .logo-svg {
-    height: 14px;
+    width: 100%;
 }
 .menu li:hover .sub-menu {
     z-index:1;
@@ -744,7 +743,7 @@ nav ul li:last-of-type {
 }
 
 #home .logo-svg {
-    height:14px;
+    width: 100%;
 }
 
 .hamburger {
