@@ -704,7 +704,7 @@ nav ul li:last-of-type {
 }
 .logo-svg {
     /*max-width: 100%;*/
-    height: 14px;
+    height: 10px;
 }
 .menu li:hover .sub-menu {
     z-index:1;
@@ -746,7 +746,7 @@ nav ul li:last-of-type {
 
 #home .logo-svg {
     /*max-width: 100%;*/
-    height: 12px;
+    height: 10px;
 }
 
 .hamburger {
