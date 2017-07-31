@@ -697,6 +697,7 @@ nav ul li:last-of-type {
 }
 
 .site-title {
+    width: 50%;
     position: absolute;
     cursor: pointer;
     top: 26.5px;
