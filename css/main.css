@@ -703,8 +703,6 @@ nav ul li:last-of-type {
 }
 .logo-svg {
     height: 16px;
-    margin-left: -15px;
-
 }
 .menu li:hover .sub-menu {
     z-index:1;
@@ -745,8 +743,7 @@ nav ul li:last-of-type {
 }
 
 #home .logo-svg {
-    margin-left: -15px;
-    width: 120px;
+    height: 16px;
 }
 
 .hamburger {
@@ -793,7 +790,7 @@ nav ul li:last-of-type {
     .hamburger {
         top: 30px;
     }
-    .logo-svg {
+    .logo-svg, #home .logo-svg {
         height: 20px;
     }
     nav {
@@ -1000,10 +997,14 @@ Contact page
 
 @media (min-width: 768px) {
     .location, .direct-contact, .information {
-        margin-right: 1em;
-        margin-bottom: 2em;
+        margin-right: 2em;
+        margin-bottom: 1.5em;
         float: left;
-        width: 200px;
+        width: 250px;
+        display: inline-block;
+    }
+    .information {
+        margin-bottom: 5em;
     }
     .half-width {
         height: 350px;
@@ -1029,6 +1030,7 @@ Contact page
         margin-right: 0;
         float: none;
         margin-bottom: 1.5em;
+        width: 250px;
     }
 
     .half-width {
@@ -1060,13 +1062,13 @@ main {
     position: relative;
     z-index: 2;
     background: #fff;
-    margin-bottom: 312px;
+    margin-bottom: 330px;
 }
 #home main {
     margin-bottom: 0;
 }
 footer {
-    height: 312px;
+    height: 330px;
     background: #3498db;
     color: white;
     position: fixed;
@@ -1120,7 +1122,7 @@ footer .row {
         bottom: 0;
     }
     .back-to-top {
-        display: inline-block;
+        display: none;
         float: right;
         margin-right: 15px;
     }
@@ -1130,8 +1132,22 @@ footer .row {
     }
 }
 @media (min-width: 768px) {
+    main {
+        margin-bottom: 310px;
+    }
+    footer {
+        height: 310px;
+    }
     .display-none {
         display: inline-block;
+    }
+}
+@media (min-width: 992px) {
+    main {
+        margin-bottom: 270px;
+    }
+    footer {
+        height: 270px;
     }
 }
 /*
