@@ -1038,6 +1038,7 @@ Contact page
         float: none;
         margin-bottom: 1.5em;
         width: 250px;
+        display: block;
     }
 
     .half-width {
