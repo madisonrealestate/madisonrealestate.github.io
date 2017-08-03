@@ -698,14 +698,14 @@ nav ul li:last-of-type {
 }
 
 .site-title {
-    width: 200px;
+    width: 250px;
     position: absolute;
     cursor: pointer;
     top: 26.5px;
 }
 .logo-svg {
     max-width: 150px;
-    background-size: contain;
+    background-size: contain !important;
     overflow: visible !important;
     white-space: normal !important;
 }
@@ -748,8 +748,8 @@ nav ul li:last-of-type {
 }
 
 #home .logo-svg {
-    max-width: 100%;
-    background-size: contain;
+    max-width: 150px;
+    background-size: contain !important;
     overflow: visible !important;
     white-space: normal !important;
 }
