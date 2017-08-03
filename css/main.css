@@ -704,7 +704,7 @@ nav ul li:last-of-type {
     top: 26.5px;
 }
 .logo-svg {
-    max-width: 100%;
+    max-width: 150px;
     background-size: contain;
     overflow: visible !important;
     white-space: normal !important;
