@@ -697,7 +697,8 @@ nav ul li:last-of-type {
     display: none;
 }
 
-.site-title {
+a.site-title {
+		width: 150px;
     position: absolute;
     cursor: pointer;
     top: 26.5px;
@@ -706,7 +707,9 @@ nav ul li:last-of-type {
     white-space: normal !important;
 }
 .logo-svg {
-    width: 193px;
+    max-width: 100%;
+    position: relative;
+    z-index: 99999999;
     background-size: contain !important;
     overflow: visible !important;
     white-space: normal !important;
