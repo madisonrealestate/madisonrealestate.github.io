@@ -698,13 +698,15 @@ nav ul li:last-of-type {
 }
 
 .site-title {
-    width: 250px;
     position: absolute;
     cursor: pointer;
     top: 26.5px;
+    background-size: contain !important;
+    overflow: visible !important;
+    white-space: normal !important;
 }
 .logo-svg {
-    max-width: 150px;
+    width: 193px;
     background-size: contain !important;
     overflow: visible !important;
     white-space: normal !important;
