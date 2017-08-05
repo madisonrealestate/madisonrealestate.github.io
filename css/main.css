@@ -707,12 +707,17 @@ a.site-title {
     white-space: normal !important;
 }
 .logo-svg {
-    max-width: 100%;
+    /*max-width: 100%;
     position: relative;
     z-index: 99999999;
     background-size: contain !important;
     overflow: visible !important;
-    white-space: normal !important;
+    white-space: normal !important;*/
+    font-size: 24px;
+    font-family: "Cormorant Garamond", Garamond, Baskerville, serif;
+}
+.white {
+	color: white;
 }
 .menu li:hover .sub-menu {
     z-index:1;
