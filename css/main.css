@@ -701,6 +701,7 @@ a.site-title {
     position: absolute;
     cursor: pointer;
     top: 26.5px;
+    text-decoration: none;
 }
 .logo {
     font-size: 18px;
