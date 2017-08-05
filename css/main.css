@@ -698,26 +698,20 @@ nav ul li:last-of-type {
 }
 
 a.site-title {
-		width: 150px;
     position: absolute;
     cursor: pointer;
     top: 26.5px;
-    background-size: contain !important;
-    overflow: visible !important;
-    white-space: normal !important;
 }
-.logo-svg {
-    /*max-width: 100%;
-    position: relative;
-    z-index: 99999999;
-    background-size: contain !important;
-    overflow: visible !important;
-    white-space: normal !important;*/
+.logo {
     font-size: 18px;
     font-family: "Cormorant Garamond", Garamond, Baskerville, serif;
+    text-decoration: none;
 }
 .white {
 	color: white;
+}
+.dark-blue {
+	color: #2c3e50;
 }
 .menu li:hover .sub-menu {
     z-index:1;
@@ -755,13 +749,6 @@ a.site-title {
 
 .sub-menu li a:hover, .sub-menu .current-item a {
     background:#ddd;
-}
-
-#home .logo-svg {
-    max-width: 150px;
-    background-size: contain !important;
-    overflow: visible !important;
-    white-space: normal !important;
 }
 
 .hamburger {
@@ -808,9 +795,8 @@ a.site-title {
     .hamburger {
         top: 30px;
     }
-    .logo-svg, #home .logo-svg {
-        height: 20px;
-        width: auto;
+    .logo {
+        font-size: 20px;
     }
     nav {
         height: 80px;
