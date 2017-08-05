@@ -706,7 +706,6 @@ a.site-title {
 .logo {
     font-size: 18px;
     font-family: "Cormorant Garamond", Garamond, Baskerville, serif;
-    text-decoration: none;
 }
 .white {
 	color: white;
@@ -797,7 +796,7 @@ a.site-title {
         top: 30px;
     }
     .logo {
-        font-size: 20px;
+        font-size: 22px;
     }
     nav {
         height: 80px;
@@ -813,6 +812,11 @@ a.site-title {
     .site-title {
         top: 30px;
     }
+}
+@media (min-width:769px) {
+	.logo {
+		font-size: 24px;
+	}
 }
 #meat {
     width: 18px;
